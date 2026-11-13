@@ -1,0 +1,62 @@
+{
+ "city": "hn",
+ "levels": [
+  {
+   "level": 0,
+   "tiles": 175,
+   "bytes": 85868528,
+   "maxErr": 0.800018310546875,
+   "meanErr": 0.8,
+   "maxBytes": 1440356
+  },
+  {
+   "level": 1,
+   "tiles": 54,
+   "bytes": 29133008,
+   "maxErr": 4.642807092190242,
+   "meanErr": 4.6427,
+   "maxBytes": 1488116
+  },
+  {
+   "level": 2,
+   "tiles": 18,
+   "bytes": 12576552,
+   "maxErr": 12.928421464512287,
+   "meanErr": 12.9283,
+   "maxBytes": 2062580
+  },
+  {
+   "level": 3,
+   "tiles": 5,
+   "bytes": 1453504,
+   "maxErr": 29.499650209156375,
+   "meanErr": 29.4413,
+   "maxBytes": 411616
+  },
+  {
+   "level": 4,
+   "tiles": 2,
+   "bytes": 521872,
+   "maxErr": 62.64210769844455,
+   "meanErr": 62.01,
+   "maxBytes": 482948
+  },
+  {
+   "level": 5,
+   "tiles": 1,
+   "bytes": 343136,
+   "maxErr": 128.9270226770209,
+   "meanErr": 128.927,
+   "maxBytes": 343136
+  }
+ ],
+ "files": {
+  "tileset.json": 2274,
+  "sub/3_0_0.json": 15599,
+  "sub/3_0_1.json": 16110,
+  "sub/3_1_0.json": 12491,
+  "sub/3_1_1.json": 15324,
+  "sub/3_2_1.json": 3282
+ },
+ "orphans": []
+}

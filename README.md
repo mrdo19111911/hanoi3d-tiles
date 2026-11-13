@@ -16,3 +16,11 @@ Per city: `index.json` (grid and cell list; a cell is usable when `status` is `o
 Written by `scene3d_work/s9/city_build/pack_tiles.py` from the output of `run_grid.py`. Sources: OpenStreetMap
 (ODbL), Google/Microsoft Open Buildings, Copernicus DEM, ESA WorldCover. Satellite imagery is used only to derive
 classes and colours; no imagery pixels are stored here.
+
+## Far field: `lod/<city>/`
+
+A baked level-of-detail pyramid of each whole city, so the far view and cell switches need no per-cell rebuild.
+`lod/<city>/tileset.json` is an OGC 3D Tiles 1.1 tileset (implicit levels `0..N`, external subtrees in `sub/`) of
+glb meshes (`EXT_meshopt_compression`, `KHR_mesh_quantization`, vertex colours only, no textures) in one city ENU
+frame (`asset.extras.cityFrame`). The page streams it with 3DTilesRendererJS. `stats/` and `*_check.json` are the
+baker's per-cell counts and seam checks. Built by `scene3d_work/s16/bake` from the same cell data as above.

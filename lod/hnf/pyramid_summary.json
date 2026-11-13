@@ -1,0 +1,118 @@
+{
+ "city": "hnf",
+ "levels": [
+  {
+   "level": 0,
+   "tiles": 1552,
+   "bytes": 401412164,
+   "maxErr": 0.8000106811523438,
+   "meanErr": 0.8,
+   "maxBytes": 1240132
+  },
+  {
+   "level": 1,
+   "tiles": 473,
+   "bytes": 146554124,
+   "maxErr": 4.642806887324148,
+   "meanErr": 4.6424,
+   "maxBytes": 1353324
+  },
+  {
+   "level": 2,
+   "tiles": 137,
+   "bytes": 41065092,
+   "maxErr": 12.928421259646193,
+   "meanErr": 12.9279,
+   "maxBytes": 2051468
+  },
+  {
+   "level": 3,
+   "tiles": 45,
+   "bytes": 6996316,
+   "maxErr": 29.49965000429028,
+   "meanErr": 28.0559,
+   "maxBytes": 796008
+  },
+  {
+   "level": 4,
+   "tiles": 15,
+   "bytes": 3698360,
+   "maxErr": 62.64210749357846,
+   "meanErr": 52.1364,
+   "maxBytes": 610940
+  },
+  {
+   "level": 5,
+   "tiles": 5,
+   "bytes": 2810520,
+   "maxErr": 128.54886207667587,
+   "meanErr": 109.1464,
+   "maxBytes": 846648
+  },
+  {
+   "level": 6,
+   "tiles": 2,
+   "bytes": 2409348,
+   "maxErr": 206.97764362267208,
+   "meanErr": 198.0216,
+   "maxBytes": 2381596
+  },
+  {
+   "level": 7,
+   "tiles": 1,
+   "bytes": 2341256,
+   "maxErr": 388.4097594320774,
+   "meanErr": 388.4098,
+   "maxBytes": 2341256
+  }
+ ],
+ "files": {
+  "tileset.json": 16845,
+  "sub/3_0_4.json": 6939,
+  "sub/3_0_5.json": 14998,
+  "sub/3_0_6.json": 12981,
+  "sub/3_0_7.json": 2786,
+  "sub/3_1_3.json": 2317,
+  "sub/3_1_4.json": 14016,
+  "sub/3_1_5.json": 20163,
+  "sub/3_1_6.json": 12612,
+  "sub/3_1_7.json": 2778,
+  "sub/3_2_2.json": 4022,
+  "sub/3_2_3.json": 15723,
+  "sub/3_2_4.json": 20128,
+  "sub/3_2_5.json": 18979,
+  "sub/3_2_6.json": 1322,
+  "sub/3_3_0.json": 4476,
+  "sub/3_3_1.json": 7641,
+  "sub/3_3_2.json": 17946,
+  "sub/3_3_3.json": 18925,
+  "sub/3_3_4.json": 20273,
+  "sub/3_3_5.json": 17939,
+  "sub/3_3_6.json": 10636,
+  "sub/3_4_0.json": 9350,
+  "sub/3_4_1.json": 17926,
+  "sub/3_4_2.json": 19424,
+  "sub/3_4_3.json": 20623,
+  "sub/3_4_4.json": 20946,
+  "sub/3_4_5.json": 19857,
+  "sub/3_4_6.json": 20357,
+  "sub/3_4_7.json": 10321,
+  "sub/3_4_8.json": 2053,
+  "sub/3_5_0.json": 4236,
+  "sub/3_5_1.json": 18682,
+  "sub/3_5_2.json": 19213,
+  "sub/3_5_3.json": 17370,
+  "sub/3_5_4.json": 20737,
+  "sub/3_5_5.json": 19642,
+  "sub/3_5_6.json": 18859,
+  "sub/3_5_7.json": 14507,
+  "sub/3_5_8.json": 1305,
+  "sub/3_6_0.json": 1561,
+  "sub/3_6_1.json": 10151,
+  "sub/3_6_2.json": 1813,
+  "sub/3_6_3.json": 1322,
+  "sub/3_6_4.json": 13750,
+  "sub/3_6_5.json": 2541
+ },
+ "orphans": []
+}

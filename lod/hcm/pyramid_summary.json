@@ -1,0 +1,95 @@
+{
+ "city": "hcm",
+ "levels": [
+  {
+   "level": 0,
+   "tiles": 734,
+   "bytes": 284737988,
+   "maxErr": 0.800018310546875,
+   "meanErr": 0.8,
+   "maxBytes": 1380360
+  },
+  {
+   "level": 1,
+   "tiles": 243,
+   "bytes": 94055644,
+   "maxErr": 4.6428070608216,
+   "meanErr": 4.6421,
+   "maxBytes": 1696804
+  },
+  {
+   "level": 2,
+   "tiles": 80,
+   "bytes": 30458324,
+   "maxErr": 12.928421433143644,
+   "meanErr": 12.9079,
+   "maxBytes": 2628432
+  },
+  {
+   "level": 3,
+   "tiles": 30,
+   "bytes": 4375512,
+   "maxErr": 29.499650177787732,
+   "meanErr": 26.9224,
+   "maxBytes": 739676
+  },
+  {
+   "level": 4,
+   "tiles": 12,
+   "bytes": 2028900,
+   "maxErr": 62.642107667075905,
+   "meanErr": 55.097,
+   "maxBytes": 436616
+  },
+  {
+   "level": 5,
+   "tiles": 4,
+   "bytes": 1497520,
+   "maxErr": 128.92702264565224,
+   "meanErr": 119.8316,
+   "maxBytes": 688056
+  },
+  {
+   "level": 6,
+   "tiles": 1,
+   "bytes": 1255572,
+   "maxErr": 193.05555120110512,
+   "meanErr": 193.0556,
+   "maxBytes": 1255572
+  }
+ ],
+ "files": {
+  "tileset.json": 11817,
+  "sub/3_0_5.json": 1319,
+  "sub/3_0_6.json": 12282,
+  "sub/3_0_7.json": 5481,
+  "sub/3_1_2.json": 1314,
+  "sub/3_1_3.json": 10398,
+  "sub/3_1_4.json": 11074,
+  "sub/3_1_5.json": 11603,
+  "sub/3_1_6.json": 19461,
+  "sub/3_1_7.json": 10882,
+  "sub/3_2_2.json": 5965,
+  "sub/3_2_3.json": 20856,
+  "sub/3_2_4.json": 20818,
+  "sub/3_2_5.json": 18416,
+  "sub/3_2_6.json": 11339,
+  "sub/3_3_1.json": 2060,
+  "sub/3_3_2.json": 8402,
+  "sub/3_3_3.json": 18899,
+  "sub/3_3_4.json": 21005,
+  "sub/3_3_5.json": 8906,
+  "sub/3_4_1.json": 3265,
+  "sub/3_4_2.json": 11635,
+  "sub/3_4_3.json": 3543,
+  "sub/3_4_4.json": 18565,
+  "sub/3_4_5.json": 5474,
+  "sub/3_5_0.json": 4985,
+  "sub/3_5_1.json": 1317,
+  "sub/3_5_4.json": 2051,
+  "sub/3_6_0.json": 1322,
+  "sub/3_6_1.json": 1312,
+  "sub/3_6_2.json": 1825
+ },
+ "orphans": []
+}
